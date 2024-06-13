@@ -17,7 +17,7 @@ My academic pursuits are complemented by technical training in Java J2EE, Python
 
 I am passionate about leveraging technology to drive insights, efficiency, and innovation. My goal is to continue exploring the vast potential of data analytics and machine learning in solving complex challenges.
 
-For a detailed look at my professional journey and project portfolio, please find my resume here: [Nihar Tripathi Resume 2024.pdf](https://drive.google.com/file/d/1jGnlJ0TMkJEViha56mzZVcwW0n6a9My6/view?usp=drive_link).
+For a detailed look at my professional journey and project portfolio, please find my resume here: [Nihar Tripathi Resume 2024.pdf](https://drive.google.com/file/d/11JnvhGhGR-4Vmf3eErf7BnoCstwobyrZ/view?usp=drive_link).
 
 Let's connect! You can reach me via email at nihart1207@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nihar-tripathi-01a8931a1).
 
